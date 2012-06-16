@@ -1,1 +1,17 @@
-This is a README file.
+G.R.A.A.S. - Gardening with Raspberry Pi & Arduino Automation System
+
+GRAAS is an automation system based on Arduino and Raspberry Pi technologies. The general purpose of this project is to achive better yield by monitoring the enviroment where the plants grow. 
+
+With the help of GRAAS someone can monitor the weather by installing and collecting data from a weather station. Primarily there is a set of four sensors for light, temperature, ground moisture and underground moisture which enable a set of automations depending the condition. For example when moisture on the ground has a several difference with the underground moisture and the plants are in need of a certain level underground can enable an automated watering process to reach the desired levels.
+
+By design this project is intented to be simple and modular. The weather station is not mandatory for every installation. The sensor nodes are wireless and can be rearranged at any time and can have a different density depending again on the plant's type. This enables GRAAS to be used from small scale gardens to huge farms covering nearly all the technological needs of  
+
+To resume GRASS characteristics are:
+1.Ecological Approach
+2.Open Source
+3.Modularity
+4.Scalability
+5.DIY
+6.Very Low Energy Consumption
+7.Low Cost
+
